@@ -249,5 +249,3 @@ config.properties
 / # cat /etc/config/config.properties
 retires = 3
 ```
-
-
